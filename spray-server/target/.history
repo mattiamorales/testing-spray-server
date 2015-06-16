@@ -1,0 +1,11 @@
+np name:spray-server
+eclipse
+compile
+reload
+help
+reboot
+compile
+eclipse
+run
+exit
+run
